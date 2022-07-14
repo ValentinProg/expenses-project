@@ -9,7 +9,7 @@ const ExpenseItem = (props) => {
 
 
   const clickHandler = () => {
-    setTitle('pomenyl!');
+    setTitle('pomenyl!'); 
   }
   
 
